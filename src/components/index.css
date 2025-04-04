@@ -1,0 +1,33 @@
+.plus-btn {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-size: 35;
+}
+.minus-btn {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-size: 35;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cart-list {
+    background-color: white;
+    border-radius: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
